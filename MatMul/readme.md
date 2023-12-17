@@ -13,10 +13,10 @@
 <h2 align="center">Результаты</h2>
 График 1. Время выполения программы
 </br>
-<img alt="График 1" src="Spped.jpg">
+<img alt="График 1" src="time.jpg">
 График 2. Ускорение 
 </br>
-<img alt="График 3" src="time.jpg">
+<img alt="График 3" src="Spped.jpg">
 Таблица 1. Результаты
 <table>
 	<tbody>
