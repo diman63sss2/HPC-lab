@@ -22,9 +22,9 @@
 <p>Исходное изображение.</p>
 <img alt="200" src="picture200.bmp">
 <p>Увеличенное CPU.</p>
-<img alt="200CPU" src="200result_cpu.bmp.bmp">
+<img alt="200CPU" src="200result_cpu.bmp">
 <p>Увеличенное GPU.</p>
-<img alt="200GPU" src="200result_gpu.bmp.bmp">
+<img alt="200GPU" src="200result_gpu.bmp">
 
 
 
