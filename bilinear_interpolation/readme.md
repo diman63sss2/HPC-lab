@@ -20,11 +20,11 @@
 <img alt="График 1" src="result.jpg">
 
 <p>Исходное изображение.</p>
-<img alt="200" src="picture200.jpg">
+<img alt="200" src="picture200.bmp">
 <p>Увеличенное CPU.</p>
-<img alt="200CPU" src="200result_cpu.bmp.jpg">
+<img alt="200CPU" src="200result_cpu.bmp.bmp">
 <p>Увеличенное GPU.</p>
-<img alt="200GPU" src="200result_gpu.bmp.jpg">
+<img alt="200GPU" src="200result_gpu.bmp.bmp">
 
 
 
