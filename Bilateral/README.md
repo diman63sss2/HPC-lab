@@ -49,10 +49,10 @@
 <img src="info.jpg"><br />
 
 Фото стандартное 200x200:<br />
-<img src="200x200.jpg"><br />
+<img src="200x200.bmp"><br />
 
 CPU 200x200:<br />
-<img  src="CPU_200x200.jpg"><br />
+<img  src="CPU_200x200.bmp"><br />
 
 GPU 200x200:<br />
-<img src="GPU_200x200.jpg"><br />
+<img src="GPU_200x200.bmp"><br />
